@@ -1,15 +1,13 @@
-# Hello World! I'm [Your Name], a [Your Job Title] 🌍
+# Hello World! I'm Lucas Valadares, currently a Python developer 🌍
 
 ![Banner Image](URL_TO_YOUR_BANNER_IMAGE)
 
-- 🔭 I’m currently working on **[Your Project]**
-- 🌱 I’m currently learning **[Technology or Field]**
-- 👯 I’m looking to collaborate on **[Project Type]**
-- 🤔 I’m looking for help with **[Technology or Problem]**
-- 💬 Ask me about **[Topic]**
-- 📫 How to reach me: **[Your Email]**
-- 😄 Pronouns: **[Your Pronouns]**
-- ⚡ Fun fact: **[Fun Fact]**
+- 🔭 I’m currently working on **upgrading my nf bot**
+- 🌱 I’m currently learning **MLOps**
+- 👯 I’m looking to collaborate on **AI, cybersec and Python Web** Projects
+- 🤔 I’m looking for help with **Finding new projects to collaborate**
+- 📫 How to reach me: **valadareslf0@gmail.com**
+
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Valadares24&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)

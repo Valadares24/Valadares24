@@ -1,6 +1,6 @@
 # Hello World! I'm Lucas Valadares, currently a Python developer 🌍
 
-![Banner Image]((https://i.pinimg.com/originals/93/9e/92/939e9273e3d6ef4f281cda31e9e62488.gif))
+![Banner Image](https://i.pinimg.com/736x/b9/ff/f9/b9fff919b8234228c9e502444843c161.jpg)
 
 - 🔭 I’m currently working on **upgrading my nf bot**
 - 🌱 I’m currently learning **MLOps**

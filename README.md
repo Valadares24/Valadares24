@@ -2,10 +2,9 @@
 
 ![Banner Image](https://i.pinimg.com/736x/b9/ff/f9/b9fff919b8234228c9e502444843c161.jpg)
 
-- 🔭 I’m currently working on **upgrading my nf bot**
-- 🌱 I’m currently learning **MLOps**
+- 🔭 I’m currently working on **Managing IT Projects on GPEcom**
+- 🌱 I’m currently learning **Project Management, MLOps**
 - 👯 I’m looking to collaborate on **AI, cybersec and Python Web** Projects
-- 🤔 I’m looking for help with **Finding new projects to collaborate**
 - 📫 How to reach me: **valadareslf0@gmail.com**
 
 

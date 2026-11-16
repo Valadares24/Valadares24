@@ -1,9 +1,8 @@
-# Hello World! I'm Lucas Valadares, currently running my own business 🌍
+# I'm Lucas Valadares 
 
 ![Banner Image](https://i.pinimg.com/736x/b9/ff/f9/b9fff919b8234228c9e502444843c161.jpg)
 
-- 🔭 I’m currently working on **Front-end code, data base and project managing**
-- 🌱 I’m currently learning **Project Management, MLOps**
+- 🔭 I’m currently working as a  **Fullstack dev with python(web) as java for local systems**
 - 👯 I’m looking to collaborate on **AI, cybersec and Python Web** Projects
 - 📫 How to reach me: **valadareslf0@gmail.com**
 
